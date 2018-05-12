@@ -1,10 +1,16 @@
 _repo: The-Philosophy-of-Natural-Theology-An-Essay-in-confutation-of-the-scepticism-of-the-present-d__47314
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jackson, William B.
     gutenberg_agent_id: '33549'
     url: http://www.gutenberg.org/2009/agents/33549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47314#The-Philosophy-of-Natural-Theology-An-Essay-in-confutation-of-the-scepticism-of-the-present-d_
 gutenberg_issued: '2014-11-08'
 gutenberg_type: Text
 identifiers:
